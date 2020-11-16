@@ -1,5 +1,5 @@
-namespace Quantum.HelloQ  
-{  
+ namespace Quantum.HelloQ  
+  {  
     // Import Quantum.Primitive  
     open Microsoft.Quantum.Primitive;  
       
